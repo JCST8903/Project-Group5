@@ -11,7 +11,7 @@ This repository contains the source code and documentation for the web project d
 
 ## Deployment on AWS EC2
 
-1. Create an EC2 instance (Amazon Linux 2023 or Ubuntu).
+1. Create an EC2 instance - AWS 
 2. Install Apache, PHP, and MariaDB.
 3. Clone this repository:
 ```bash

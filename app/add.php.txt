@@ -1,0 +1,17 @@
+<?php
+require 'config.php';
+
+$name = $_POST['name'];
+$cell = $_POST['cell'];
+$email = $_POST['email'];
+
+$sql = "INSERT INTO contacts (name, cell, email) VALUES ('$name', '$cell', '$email')";
+
+if ($conn->query($sql) === TRUE) {
+    echo "Contact Added Successfully!";
+} else {
+    echo "Error: " . $conn->error;
+}
+
+$conn->close();
+?>

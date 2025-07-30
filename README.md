@@ -17,4 +17,4 @@ This repository contains the source code and documentation for the web project d
 ```bash
 
 Go to /var/www/html/
-git clone https://github.com/JCST8903/Project-Group5.git
+sudo git clone https://github.com/JCST8903/Project-Group5.git

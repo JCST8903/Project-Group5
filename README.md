@@ -15,6 +15,6 @@ This repository contains the source code and documentation for the web project d
 2. Install Apache, PHP, and MariaDB.
 3. Clone this repository:
 ```bash
+
+Go to /var/www/html/
 git clone https://github.com/JCST8903/Project-Group5.git
-cd Project-Group5
-sudo cp * /var/www/html/

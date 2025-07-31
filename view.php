@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Saved Contacts</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 40px;
+            background-color: #f9f9f9;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            background-color: white;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #007BFF;
+            color: white;
+        }
+
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        a.button {
+            margin-top: 20px;
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+<body>
+<h2> Registered Contacts</h2>
+<table><tr><th>ID</th><th>Name</th><th>Phone</th><th>Email</th></tr><tr><td>11</td><td>test</td><td>1</td><td>test@gmail.com</td></tr><tr><td>12</td><td>test2</td><td>2</td><td>test@gmail.com</td></tr><tr><td>13</td><td>test3</td><td>3</td><td>test@gmail.com</td></tr><tr><td>14</td><td>a</td><td>1</td><td>test@gmail.com</td></tr><tr><td>15</td><td>a</td><td>1</td><td>jorgejcst@gmail.com</td></tr></table><br><a href="index.html" class="button">Add New Contact</a>
+</body>
+</html>

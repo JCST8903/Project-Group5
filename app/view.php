@@ -48,6 +48,6 @@
 </head>
 <body>
 <h2> Registered Contacts</h2>
-<table><tr><th>ID</th><th>Name</th><th>Phone</th><th>Email</th></tr><tr><td>11</td><td>test</td><td>1</td><td>test@gmail.com</td></tr><tr><td>12</td><td>test2</td><td>2</td><td>test@gmail.com</td></tr><tr><td>13</td><td>test3</td><td>3</td><td>test@gmail.com</td></tr><tr><td>14</td><td>a</td><td>1</td><td>test@gmail.com</td></tr><tr><td>15</td><td>a</td><td>1</td><td>jorgejcst@gmail.com</td></tr></table><br><a href="index.html" class="button">Add New Contact</a>
+<table><tr><th>ID</th><th>Name</th><th>Phone</th><th>Email</th></tr>></table><br><a href="index.html" class="button">Add New Contact</a>
 </body>
 </html>

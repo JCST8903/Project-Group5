@@ -48,6 +48,7 @@
 </head>
 <body>
 <h2> Registered Contacts</h2>
-<table><tr><th>Name</th><th>Phone</th><th>Email</th></tr></table><br><a href="index.html" class="button">Add New Contact</a>
+<table><tr><th>Name</th><th>Cell</th><th>Email</th></tr></table><br><a href="index.html" class="button">Add New Contact</a>
 </body>
 </html>
+
